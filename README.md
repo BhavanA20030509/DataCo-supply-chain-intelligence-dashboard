@@ -184,13 +184,6 @@ COUNTROWS(FILTER(
 
 ---
 
-## 📁 Repository Structure
-
----
-
-## 📋 Dashboard Layout
----
-
 ## 🚀 How to Run This Project
 
 1. **Clone this repository**
