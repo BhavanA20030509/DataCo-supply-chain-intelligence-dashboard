@@ -9,13 +9,7 @@
 > across 5 global markets — uncovering revenue performance, delivery failures, 
 > profit drivers, and fraud risk in one view.
 
----
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
----
 
 ## 📌 Project Objective
 
